@@ -1,3 +1,11 @@
+# Step 1 
+
+conda create --prefix ./env python=3.8 
+conda activate 
+
+The --prefix option in the conda create command allows you to specify the location where you want to create the new conda environment. By default, conda environments are created in a centralized location determined by your conda installation. However, using --prefix gives you the ability to create the environment in a custom location of your choice.
+
+
 # California-Housing-Price-Prediction-
 In this project, I will be documenting my full experience with developing a machine learning model to predict housing prices.  
 
