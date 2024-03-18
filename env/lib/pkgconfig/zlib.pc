@@ -1,0 +1,13 @@
+prefix=/Users/maxfu/Desktop/AI/Machine Learning Projects/California-Housing-Price-Prediction/env
+exec_prefix=/Users/maxfu/Desktop/AI/Machine Learning Projects/California-Housing-Price-Prediction/env
+libdir=/Users/maxfu/Desktop/AI/Machine Learning Projects/California-Housing-Price-Prediction/env/lib
+sharedlibdir=/Users/maxfu/Desktop/AI/Machine Learning Projects/California-Housing-Price-Prediction/env/lib
+includedir=/Users/maxfu/Desktop/AI/Machine Learning Projects/California-Housing-Price-Prediction/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
