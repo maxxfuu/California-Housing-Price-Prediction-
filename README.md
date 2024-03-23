@@ -31,3 +31,6 @@ We need to select a performance measure for regression probelms. We are going to
 
 # Creating Data Pipline 
 
+After exploring the data, you would want to create a pipline that will perform all the transformations you've experimented. A machine learning pipeline is a crucial component in the development and productionization of machine learning systems, helping data scientists and data engineers manage the complexity of the end-to-end machine learning process and helping them to develop accurate and scalable solutions for a wide range of applications.
+
+
